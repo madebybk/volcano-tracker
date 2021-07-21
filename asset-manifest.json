@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/volcano-tracker/static/css/main.c83a3392.chunk.css",
+    "main.js": "/volcano-tracker/static/js/main.a3a136c0.chunk.js",
+    "main.js.map": "/volcano-tracker/static/js/main.a3a136c0.chunk.js.map",
+    "runtime-main.js": "/volcano-tracker/static/js/runtime-main.dbdf2083.js",
+    "runtime-main.js.map": "/volcano-tracker/static/js/runtime-main.dbdf2083.js.map",
+    "static/js/2.4bee2abc.chunk.js": "/volcano-tracker/static/js/2.4bee2abc.chunk.js",
+    "static/js/2.4bee2abc.chunk.js.map": "/volcano-tracker/static/js/2.4bee2abc.chunk.js.map",
+    "static/js/3.88efdd58.chunk.js": "/volcano-tracker/static/js/3.88efdd58.chunk.js",
+    "static/js/3.88efdd58.chunk.js.map": "/volcano-tracker/static/js/3.88efdd58.chunk.js.map",
+    "index.html": "/volcano-tracker/index.html",
+    "static/css/main.c83a3392.chunk.css.map": "/volcano-tracker/static/css/main.c83a3392.chunk.css.map",
+    "static/js/2.4bee2abc.chunk.js.LICENSE.txt": "/volcano-tracker/static/js/2.4bee2abc.chunk.js.LICENSE.txt",
+    "static/media/loading.17f0055f.gif": "/volcano-tracker/static/media/loading.17f0055f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbdf2083.js",
+    "static/js/2.4bee2abc.chunk.js",
+    "static/css/main.c83a3392.chunk.css",
+    "static/js/main.a3a136c0.chunk.js"
+  ]
+}
